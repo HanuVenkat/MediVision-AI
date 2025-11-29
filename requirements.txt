@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+pydantic
+speechrecognition
+gTTS
+pydub
+pillow
+requests
+streamlit
+groq
